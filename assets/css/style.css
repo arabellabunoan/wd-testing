@@ -7,3 +7,22 @@
     text-decoration: none;
     scroll-behavior: smooth;
 }
+
+body{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    overflow-x: hidden;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    background-color: #30BBCF;
+    justify-content: space-between;
+    padding-left: 12%;
+    padding-right: 10%;
+    height: 9rem;
+}
+.nav {
+    width: 65%;
