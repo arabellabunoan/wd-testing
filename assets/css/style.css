@@ -29,15 +29,14 @@ body{
     
 }
 
-.logoo.relative {
-  position: relative;
-  top: 30rem;
+.logoo{
+  
+  top: 50rem;
   
 }
 
 
-.background.relative {
-  position: relative;
+.background{
   bottom: 30rem;
   
 }
